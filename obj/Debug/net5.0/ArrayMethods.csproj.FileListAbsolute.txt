@@ -1,0 +1,16 @@
+C:\Users\mabbe\Desktop\Patika\ArrayMethods\ArrayMethods\bin\Debug\net5.0\ArrayMethods.exe
+C:\Users\mabbe\Desktop\Patika\ArrayMethods\ArrayMethods\bin\Debug\net5.0\ArrayMethods.deps.json
+C:\Users\mabbe\Desktop\Patika\ArrayMethods\ArrayMethods\bin\Debug\net5.0\ArrayMethods.runtimeconfig.json
+C:\Users\mabbe\Desktop\Patika\ArrayMethods\ArrayMethods\bin\Debug\net5.0\ArrayMethods.runtimeconfig.dev.json
+C:\Users\mabbe\Desktop\Patika\ArrayMethods\ArrayMethods\bin\Debug\net5.0\ArrayMethods.dll
+C:\Users\mabbe\Desktop\Patika\ArrayMethods\ArrayMethods\bin\Debug\net5.0\ref\ArrayMethods.dll
+C:\Users\mabbe\Desktop\Patika\ArrayMethods\ArrayMethods\bin\Debug\net5.0\ArrayMethods.pdb
+C:\Users\mabbe\Desktop\Patika\ArrayMethods\ArrayMethods\obj\Debug\net5.0\ArrayMethods.csproj.AssemblyReference.cache
+C:\Users\mabbe\Desktop\Patika\ArrayMethods\ArrayMethods\obj\Debug\net5.0\ArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabbe\Desktop\Patika\ArrayMethods\ArrayMethods\obj\Debug\net5.0\ArrayMethods.AssemblyInfoInputs.cache
+C:\Users\mabbe\Desktop\Patika\ArrayMethods\ArrayMethods\obj\Debug\net5.0\ArrayMethods.AssemblyInfo.cs
+C:\Users\mabbe\Desktop\Patika\ArrayMethods\ArrayMethods\obj\Debug\net5.0\ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\mabbe\Desktop\Patika\ArrayMethods\ArrayMethods\obj\Debug\net5.0\ArrayMethods.dll
+C:\Users\mabbe\Desktop\Patika\ArrayMethods\ArrayMethods\obj\Debug\net5.0\ref\ArrayMethods.dll
+C:\Users\mabbe\Desktop\Patika\ArrayMethods\ArrayMethods\obj\Debug\net5.0\ArrayMethods.pdb
+C:\Users\mabbe\Desktop\Patika\ArrayMethods\ArrayMethods\obj\Debug\net5.0\ArrayMethods.genruntimeconfig.cache
